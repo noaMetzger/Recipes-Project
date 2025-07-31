@@ -38,7 +38,7 @@ All endpoints return JSON responses and follow proper HTTP methods and status co
 2. Install dependencies: `npm install`
 3. Set up `.env` file:
     ```env
-    PORT=4200
+    PORT=5000
     MONGODB_URI=***
     JWT_SECRET=***
     ```
